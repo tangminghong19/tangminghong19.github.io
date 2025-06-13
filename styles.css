@@ -209,15 +209,6 @@ img {
   transform: translateY(8px);
 }
 
-body {
-  display: flex;
-  height: 100vh;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  background: black;
-}
-
 .shining {
   font-size: 2em;
   letter-spacing: 4px;
