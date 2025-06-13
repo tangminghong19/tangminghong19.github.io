@@ -215,13 +215,13 @@ img {
   text-transform: uppercase;
   display: inline-block;
   background: linear-gradient(90deg, black 0%, white 50%, black 100%);
-  background-size: 100% auto;
+  background-size: 500% auto;
   background-repeat: no-repeat;
   color: transparent;
   -webkit-background-clip: text;
           background-clip: text;
-  -webkit-animation: shining 3s linear infinite;
-          animation: shining 3s linear infinite;
+  -webkit-animation: shining 5s linear infinite;
+          animation: shining 5s linear infinite;
 }
 
 @-webkit-keyframes shining {
