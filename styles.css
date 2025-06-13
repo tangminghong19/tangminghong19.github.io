@@ -226,18 +226,18 @@ img {
 
 @-webkit-keyframes shining {
   from {
-    background-position: -500%;
+    background-position: 500%;
   }
   to {
-    background-position: 500%;
+    background-position: -500%;
   }
 }
 
 @keyframes shining {
   from {
-    background-position: -500%;
+    background-position: 500%;
   }
   to {
-    background-position: 500%;
+    background-position: -500%;
   }
 }
